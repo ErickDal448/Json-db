@@ -23,7 +23,7 @@
   "posts": [
     {
       "id": 1,
-      "url": "/assets/img/unsplash_6FDXGY9J6y4.jpg",
+      "url": "/build/assets/img/unsplash_6FDXGY9J6y4.jpg",
       "nombre": "Prueba",
       "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum aspernatur nostrum fugiat impedit esse sint, at odit tempore. Quae rerum inventore laboriosam reiciendis voluptate fugit praesentium molestiae natus illo magni!",
       "categoria": "Star Wars",
